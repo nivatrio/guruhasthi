@@ -3,7 +3,7 @@
    "sdlogging":"n",
   "cloudeMqtt": "y",
   "localMqttServer": "192.168.1.10",
-  "cloudeMqttServer": "triosolar.co.in"
+  "cloudeMqttServer": "triosolar.co.in",
     "pins": [17,16],
   "customername":"guruhasthi",
   "ftmodbus": "y",
